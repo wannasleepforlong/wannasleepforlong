@@ -2,7 +2,7 @@
 <h3 align="center">A passionate(?) Data Science Enthusiast</h3>
 
 <p align="center">
-  <src="https://github.com/wannasleepforlong/wannasleepforlong/assets/109717763/9b5802b7-bce2-4f12-ba91-20a4319a25aa">
+  <img width="460" height="400" src="https://github.com/wannasleepforlong/wannasleepforlong/assets/109717763/9b5802b7-bce2-4f12-ba91-20a4319a25aa">
 </p>
 
 
