@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhinav Painuli</h1>
-<h3 align="center">A passionate Data Science Enthusiast from India</h3>
+<h1 align="center">Hey! I'm Abhinav</h1>
+<h3 align="center">A passionate Data Science Enthusiast</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/wannasleepforlong/Data-Science-Portfolio](https://github.com/wannasleepforlong/Data-Science-Portfolio)
 
