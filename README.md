@@ -8,9 +8,7 @@
 
 - 👨‍💻 Most of my projects are available at [https://github.com/wannasleepforlong/Data-Science-Portfolio](https://github.com/wannasleepforlong/Data-Science-Portfolio)
 
-- 📫 How to reach me **abhinavpainuli221b@gmail.com**
-
-- ⚡ Fun fact **Death is inevitable**
+- 📫 Reach me at **abhinavpainuli221b@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
