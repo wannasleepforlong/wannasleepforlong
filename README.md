@@ -1,5 +1,6 @@
 <h1 align="center">Hey! I'm Abhinav</h1>
-<h3 align="center">A passionate Data Science Enthusiast</h3>
+<h3 align="center">A passionate(?) Data Science Enthusiast</h3>
+![image](https://github.com/wannasleepforlong/wannasleepforlong/assets/109717763/f15455fb-41e6-4f34-9b1e-33845977cb56)
 
 - 👨‍💻 All of my projects are available at [https://github.com/wannasleepforlong/Data-Science-Portfolio](https://github.com/wannasleepforlong/Data-Science-Portfolio)
 
