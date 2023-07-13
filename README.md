@@ -3,7 +3,7 @@
 
 ![image](https://github.com/wannasleepforlong/wannasleepforlong/assets/109717763/ce072ab8-5198-4e1d-a902-dbc4574457ec)
 
-- 👨‍💻 All of my projects are available at [https://github.com/wannasleepforlong/Data-Science-Portfolio](https://github.com/wannasleepforlong/Data-Science-Portfolio)
+- 👨‍💻 Most of my projects are available at [https://github.com/wannasleepforlong/Data-Science-Portfolio](https://github.com/wannasleepforlong/Data-Science-Portfolio)
 
 - 📫 How to reach me **abhinavpainuli221b@gmail.com**
 
