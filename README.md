@@ -2,7 +2,7 @@
 <h3 align="center">A passionate(❓) Data Science Enthusiast</h3>
 
 
-- 👨‍💻 Most of my projects are available at [https://github.com/wannasleepforlong/Data-Science-Portfolio](https://github.com/wannasleepforlong/Data-Science-Portfolio)
+- 👨‍💻 Most of my projects are available at [my portfolio](https://github.com/wannasleepforlong/Data-Science-Portfolio)(https://github.com/wannasleepforlong/Data-Science-Portfolio)
 
 - 📫 Reach me at **abhinavpainuli221b@gmail.com**
 
