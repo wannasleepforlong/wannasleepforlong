@@ -4,7 +4,7 @@
 
 - 👨‍💻 Most of my projects are available at [my portfolio](https://github.com/wannasleepforlong/Data-Science-Portfolio)
 
-- 📫 Reach me at **abhinavpainuli221b@gmail.com**
+- 📫 Reach me at **abhinavpainuli221b@gmail.com** or **abhinavpainuli221b@cic.du.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
