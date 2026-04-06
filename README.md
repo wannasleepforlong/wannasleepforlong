@@ -2,7 +2,7 @@
 <h3 align="center">A passionate(❓) Data Science Enthusiast</h3>
 
 
-- 👨‍💻 My projects, research work and other work is available at [my portfolio](https://wannasleepforlong.vercel.app/)
+- 👨‍💻 My projects, research and other work is available at [my portfolio](https://wannasleepforlong.vercel.app/)
 
 - 📫 Reach me at **abhinavpainuli221b@gmail.com** or **abhinavpainuli221b@cic.du.ac.in**
 
