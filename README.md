@@ -4,7 +4,7 @@
 
 - 👨‍💻 My projects, research and other work is available at [my portfolio](https://wannasleepforlong.vercel.app/)
 
-- 📫 Reach me at **abhinavpainuli221b@gmail.com** or **abhinavpainuli221b@cic.du.ac.in**
+- 📫 Reach me at **abhinavpainuli221b@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
